@@ -1,14 +1,6 @@
 # cypress-tests Project
 E2E automated tests created using Cypress.
 Test in web store: https://www.demoblaze.com
-
-# Test scenarios
-Tests are created totally random without requirements.
-Tests list:
-- DemoBlaze test store checkout
-  - DemoBlaze page home opened
-  - Select product in store
-  - Complete order with selected product
  
 # Test Configurartion
 
