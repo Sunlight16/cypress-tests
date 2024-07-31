@@ -12,8 +12,9 @@ Tests list:
  
 # Test Configurartion
 
+- Clone project `git clone ..`
 - Install Cypress: 
-    - `cd ..` to cypress tests path
+    - `cd ..` to cypress project path
     - `npm install cypress --save-dev`
 - Node.js 18.x, 20.x, 22.x and above
     - `nvm use 18`
