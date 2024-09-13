@@ -1,7 +1,7 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  chromeWebSecurity: false ,
+  chromeWebSecurity: false,
   projectId: 'ozs1hz',
   e2e: {
     baseUrl: 'https://www.demoblaze.com',
@@ -9,4 +9,5 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
   },
+  experimentalSessionAndOrigin: true,
 });

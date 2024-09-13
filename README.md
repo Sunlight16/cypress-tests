@@ -5,6 +5,7 @@ Test in web store: https://www.demoblaze.com
 # Test Configurartion
 
 - Clone project `git clone ..`
+- Install Node and NPM
 - Install Cypress: 
     - `cd ..` to cypress project path
     - `npm install cypress --save-dev`
